@@ -9,7 +9,7 @@ say_hello()
 
 
 
-/* ____________ fun_a is showing global behaviour _____________ */
+/* ____________ fun_a is showing function scope behaviour _____________ */
 
 function say_bye(){
     var fun_a = 90
