@@ -2,3 +2,4 @@
 ##  modified some text in var.js 0.2 same
 ## added let const related stuffs 0.3 same
 ## looping,condition,try catch stuffs added 0.4 same
+## closure, functions type, problem related to closure done added 0.5 same
